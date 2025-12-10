@@ -10,3 +10,9 @@
 [submodule "week-3"]
 	path = week-3
 	url = git@github.com:KSoham-dev/mlops-week-3-assignment.git
+[submodule "week-8"]
+	path = week-8
+	url = https://github.com/KSoham-dev/mlops-week-8-assignment
+[submodule "week-9"]
+	path = week-9
+	url = https://github.com/KSoham-dev/mlops-week-9-assignment
